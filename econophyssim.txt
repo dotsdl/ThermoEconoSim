@@ -1,0 +1,4 @@
+1) Prototype economic simulation engine
+2) Implement basic interaction and transaction function
+3) Implement taxation functions
+4) Implement naive parallelization scheme using multiprocessing
